@@ -24,8 +24,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=TheTrueCuriousChild&icon=0&color=6)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+<!--This part off the program is to implement the bootom snake-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheTrueCuriousChild/TheTrueCuriousChild/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheTrueCuriousChild/TheTrueCuriousChild/output/github-snake.svg" />
